@@ -31,7 +31,7 @@ class Header extends Component {
             <div>
                 <AppBar position="static"
                     style={{
-                        background: '#000000'
+                        background: '#444444'
                     }}
                 >
                     <Toolbar>
