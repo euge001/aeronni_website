@@ -31,7 +31,7 @@ class Header extends Component {
             <div>
                 <AppBar position="static"
                     style={{
-                        background: '#444444'
+                        background: '#000000'
                     }}
                 >
                     <Toolbar>
@@ -51,7 +51,7 @@ class Header extends Component {
                                 style={{
                                     color: '#ffffff'
                                 }}>
-                                Aeronni Technologies
+                                Aeronni Technologiess
                             </Link>
                         </Typography>
                         <Link to="/login">                            >
