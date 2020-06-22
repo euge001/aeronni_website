@@ -10,7 +10,7 @@ class Footer extends Component {
       <div className="bottomNav">
         <div className="divcenter">
           <Link className="bottomNavLink" to="/">
-            Home
+            Main
           </Link>
 
           <Link className="bottomNavLink" to="/Aerial-Application-Robot">
